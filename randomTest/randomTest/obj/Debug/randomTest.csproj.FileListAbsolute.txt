@@ -1,0 +1,15 @@
+D:\Users\zhuangdaozhi\Desktop\TestCodes\randomTest\randomTest\bin\Debug\randomTest.exe.config
+D:\Users\zhuangdaozhi\Desktop\TestCodes\randomTest\randomTest\bin\Debug\randomTest.exe
+D:\Users\zhuangdaozhi\Desktop\TestCodes\randomTest\randomTest\bin\Debug\randomTest.pdb
+D:\Users\zhuangdaozhi\Desktop\TestCodes\randomTest\randomTest\obj\Debug\MainWindow.g.cs
+D:\Users\zhuangdaozhi\Desktop\TestCodes\randomTest\randomTest\obj\Debug\App.g.cs
+D:\Users\zhuangdaozhi\Desktop\TestCodes\randomTest\randomTest\obj\Debug\randomTest_MarkupCompile.cache
+D:\Users\zhuangdaozhi\Desktop\TestCodes\randomTest\randomTest\obj\Debug\randomTest_MarkupCompile.lref
+D:\Users\zhuangdaozhi\Desktop\TestCodes\randomTest\randomTest\obj\Debug\MainWindow.baml
+D:\Users\zhuangdaozhi\Desktop\TestCodes\randomTest\randomTest\obj\Debug\randomTest.g.resources
+D:\Users\zhuangdaozhi\Desktop\TestCodes\randomTest\randomTest\obj\Debug\randomTest.Properties.Resources.resources
+D:\Users\zhuangdaozhi\Desktop\TestCodes\randomTest\randomTest\obj\Debug\randomTest.csproj.GenerateResource.cache
+D:\Users\zhuangdaozhi\Desktop\TestCodes\randomTest\randomTest\obj\Debug\randomTest.csproj.CoreCompileInputs.cache
+D:\Users\zhuangdaozhi\Desktop\TestCodes\randomTest\randomTest\obj\Debug\randomTest.exe
+D:\Users\zhuangdaozhi\Desktop\TestCodes\randomTest\randomTest\obj\Debug\randomTest.pdb
+D:\Users\zhuangdaozhi\Desktop\TestCodes\randomTest\randomTest\obj\Debug\randomTest.csprojAssemblyReference.cache
